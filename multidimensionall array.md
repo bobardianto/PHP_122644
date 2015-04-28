@@ -1,6 +1,5 @@
 # PHP_122644
 Tugas Teori Pemrograman Web
-<!DOCTYPE html>
 <html>
 <body>
 
